@@ -10,6 +10,6 @@ setup(
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: BSD License",
-        "Operation System :: OS Independent"
+        "Operating System :: OS Independent"
     ]
 )
